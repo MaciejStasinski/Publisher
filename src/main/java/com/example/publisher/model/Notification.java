@@ -1,4 +1,4 @@
-package com.example.publisher;
+package com.example.publisher.model;
 
 import java.io.Serializable;
 
